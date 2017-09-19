@@ -16,6 +16,11 @@ brew install Caskroom/cask/libreoffice-language-pack
 brew install Caskroom/cask/itsycal
 brew install Caskroom/cask/flycut
 
+#system tools
+brew install unrar
+brew install youtube-dl
+brew install testdisk
+brew install awscli
 
 #network
 brew install nmap
